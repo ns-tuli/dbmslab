@@ -1,0 +1,15 @@
+C:\OOP CODES\lab01_A_DBMS\bin\Debug\net6.0\lab01_A_DBMS.exe
+C:\OOP CODES\lab01_A_DBMS\bin\Debug\net6.0\lab01_A_DBMS.deps.json
+C:\OOP CODES\lab01_A_DBMS\bin\Debug\net6.0\lab01_A_DBMS.runtimeconfig.json
+C:\OOP CODES\lab01_A_DBMS\bin\Debug\net6.0\lab01_A_DBMS.dll
+C:\OOP CODES\lab01_A_DBMS\bin\Debug\net6.0\lab01_A_DBMS.pdb
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.csproj.AssemblyReference.cache
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.AssemblyInfoInputs.cache
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.AssemblyInfo.cs
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.csproj.CoreCompileInputs.cache
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.dll
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\refint\lab01_A_DBMS.dll
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.pdb
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\lab01_A_DBMS.genruntimeconfig.cache
+C:\OOP CODES\lab01_A_DBMS\obj\Debug\net6.0\ref\lab01_A_DBMS.dll
